@@ -140,7 +140,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{7111BC1B-250E-42AA-90EB-EC1E24975D3C}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">The LabVIEW Soccer Game</Property>
-				<Property Name="INST_productVersion" Type="Str">2.0.0</Property>
+				<Property Name="INST_productVersion" Type="Str">2.0.1</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">21008000</Property>
 				<Property Name="MSI_arpCompany" Type="Str">The LabVIEW Soccer Game</Property>
@@ -183,6 +183,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{85868BCA-796F-4A42-888A-468901512802}</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">The LabVIEW Soccer Game.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/The LabVIEW Soccer Game/The LabVIEW Soccer Game.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -191,7 +192,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/The LabVIEW Soccer Game/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/The-LabVIEW-Soccer-Game-logo.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E7DFB513-6E5E-456A-BE89-E712658C883E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{6F05E891-E9B5-40C1-AA24-C73CAF63D1A1}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Source/Main.vi</Property>
