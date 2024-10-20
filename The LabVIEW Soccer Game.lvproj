@@ -246,7 +246,7 @@
 				<Property Name="Source[24].properties[1].value" Type="Bool">false</Property>
 				<Property Name="Source[24].propertiesCount" Type="Int">2</Property>
 				<Property Name="Source[24].type" Type="Str">VI</Property>
-				<Property Name="Source[25].itemID" Type="Ref">/My Computer/Source/AI Manager/AI Manager.lvclass/Private/Clear Ball.vi</Property>
+				<Property Name="Source[25].itemID" Type="Ref">/My Computer/Source/AI Manager/AI Manager.lvclass/Private/Algo/Clear Ball.vi</Property>
 				<Property Name="Source[25].properties[0].type" Type="Str">Remove front panel</Property>
 				<Property Name="Source[25].properties[0].value" Type="Bool">false</Property>
 				<Property Name="Source[25].properties[1].type" Type="Str">Remove block diagram</Property>

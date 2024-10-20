@@ -91,12 +91,12 @@ Copyright (c) 2024 David Grollier</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
 	</Item>
 	<Item Name="Init.vi" Type="VI" URL="../Init.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$2!!!!"A!%!!!!-E"Q!"Y!!"=61W^N&lt;86O;7.B&gt;'FP&lt;CZM&gt;G.M98.T!"&amp;$&lt;WVN&gt;7ZJ9W&amp;U;7^O)'^V&gt;!!+1#%%5X2P=!!!(E"Q!"E!!1!#%V.U&lt;X!A68.F=C"&amp;&gt;G6O&gt;#"P&gt;81!&amp;U!$!"&amp;1&lt;'&amp;Z:8*T)'ZV&lt;7*F=C"J&lt;A"5!0!!$!!!!!!!!!!"!!!!!Q!!!!!!!!!!!!1!!!-!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!!!!!!"!!5!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#J!!!!"!!%!!!!-E"Q!"Y!!"=61W^N&lt;86O;7.B&gt;'FP&lt;CZM&gt;G.M98.T!"&amp;$&lt;WVN&gt;7ZJ9W&amp;U;7^O)'^V&gt;!!81!-!%6"M98FF=H-A&lt;H6N9G6S)'FO!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!!!Q!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!!!!!!!!!%!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">134217728</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1084236304</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 </LVClass>
