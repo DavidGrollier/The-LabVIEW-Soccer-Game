@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="21008000">
+<Project Type="Project" LVVersion="24008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -74,6 +74,7 @@
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
+				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
@@ -92,46 +93,40 @@
 				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
 				<Property Name="DestinationCount" Type="Int">1</Property>
 				<Property Name="DistPart[0].flavorID" Type="Str">DefaultFull</Property>
-				<Property Name="DistPart[0].productID" Type="Str">{46FB1DD2-CA29-416E-8E5F-B8AC0E4EFFB2}</Property>
-				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Runtime 2021</Property>
+				<Property Name="DistPart[0].productID" Type="Str">{6E124394-A097-477E-8FBE-2F493BADD927}</Property>
+				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Runtime 2024 Q3 Patch 1</Property>
 				<Property Name="DistPart[0].SoftDep[0].exclude" Type="Bool">false</Property>
 				<Property Name="DistPart[0].SoftDep[0].productName" Type="Str">NI ActiveX Container</Property>
 				<Property Name="DistPart[0].SoftDep[0].upgradeCode" Type="Str">{1038A887-23E1-4289-B0BD-0C4B83C6BA21}</Property>
 				<Property Name="DistPart[0].SoftDep[1].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[1].productName" Type="Str">NI Deployment Framework 2021</Property>
+				<Property Name="DistPart[0].SoftDep[1].productName" Type="Str">NI Deployment Framework 2024</Property>
 				<Property Name="DistPart[0].SoftDep[1].upgradeCode" Type="Str">{838942E4-B73C-492E-81A3-AA1E291FD0DC}</Property>
-				<Property Name="DistPart[0].SoftDep[10].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[10].productName" Type="Str">NI VC2015 Runtime</Property>
-				<Property Name="DistPart[0].SoftDep[10].upgradeCode" Type="Str">{D42E7BAE-6589-4570-B6A3-3E28889392E7}</Property>
-				<Property Name="DistPart[0].SoftDep[11].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[11].productName" Type="Str">NI TDM Streaming 21.0</Property>
-				<Property Name="DistPart[0].SoftDep[11].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
 				<Property Name="DistPart[0].SoftDep[2].exclude" Type="Bool">false</Property>
 				<Property Name="DistPart[0].SoftDep[2].productName" Type="Str">NI Error Reporting 2020</Property>
 				<Property Name="DistPart[0].SoftDep[2].upgradeCode" Type="Str">{42E818C6-2B08-4DE7-BD91-B0FD704C119A}</Property>
 				<Property Name="DistPart[0].SoftDep[3].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[3].productName" Type="Str">NI LabVIEW Real-Time NBFifo 2021</Property>
-				<Property Name="DistPart[0].SoftDep[3].upgradeCode" Type="Str">{764CB77E-F1C0-34FF-B1B9-3AF23D162D6B}</Property>
+				<Property Name="DistPart[0].SoftDep[3].productName" Type="Str">NI Logos 24.1</Property>
+				<Property Name="DistPart[0].SoftDep[3].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
 				<Property Name="DistPart[0].SoftDep[4].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[4].productName" Type="Str">NI LabVIEW Runtime 2021 Non-English Support.</Property>
-				<Property Name="DistPart[0].SoftDep[4].upgradeCode" Type="Str">{61B01DDE-3406-339D-9ABC-358C2D13CC73}</Property>
+				<Property Name="DistPart[0].SoftDep[4].productName" Type="Str">NI LabVIEW Web Server 2024</Property>
+				<Property Name="DistPart[0].SoftDep[4].upgradeCode" Type="Str">{0960380B-EA86-4E0C-8B57-14CD8CCF2C15}</Property>
 				<Property Name="DistPart[0].SoftDep[5].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[5].productName" Type="Str">NI Logos 21.0</Property>
-				<Property Name="DistPart[0].SoftDep[5].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
+				<Property Name="DistPart[0].SoftDep[5].productName" Type="Str">NI mDNS Responder 24.5</Property>
+				<Property Name="DistPart[0].SoftDep[5].upgradeCode" Type="Str">{9607874B-4BB3-42CB-B450-A2F5EF60BA3B}</Property>
 				<Property Name="DistPart[0].SoftDep[6].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[6].productName" Type="Str">NI LabVIEW Web Server 2021</Property>
-				<Property Name="DistPart[0].SoftDep[6].upgradeCode" Type="Str">{0960380B-EA86-4E0C-8B57-14CD8CCF2C15}</Property>
+				<Property Name="DistPart[0].SoftDep[6].productName" Type="Str">Math Kernel Libraries 2017</Property>
+				<Property Name="DistPart[0].SoftDep[6].upgradeCode" Type="Str">{699C1AC5-2CF2-4745-9674-B19536EBA8A3}</Property>
 				<Property Name="DistPart[0].SoftDep[7].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[7].productName" Type="Str">NI mDNS Responder 21.0</Property>
-				<Property Name="DistPart[0].SoftDep[7].upgradeCode" Type="Str">{9607874B-4BB3-42CB-B450-A2F5EF60BA3B}</Property>
+				<Property Name="DistPart[0].SoftDep[7].productName" Type="Str">Math Kernel Libraries 2020</Property>
+				<Property Name="DistPart[0].SoftDep[7].upgradeCode" Type="Str">{9872BBBA-FB96-42A4-80A2-9605AC5CBCF1}</Property>
 				<Property Name="DistPart[0].SoftDep[8].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[8].productName" Type="Str">Math Kernel Libraries 2017</Property>
-				<Property Name="DistPart[0].SoftDep[8].upgradeCode" Type="Str">{699C1AC5-2CF2-4745-9674-B19536EBA8A3}</Property>
+				<Property Name="DistPart[0].SoftDep[8].productName" Type="Str">NI VC2015 Runtime</Property>
+				<Property Name="DistPart[0].SoftDep[8].upgradeCode" Type="Str">{D42E7BAE-6589-4570-B6A3-3E28889392E7}</Property>
 				<Property Name="DistPart[0].SoftDep[9].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[0].SoftDep[9].productName" Type="Str">Math Kernel Libraries 2020</Property>
-				<Property Name="DistPart[0].SoftDep[9].upgradeCode" Type="Str">{9872BBBA-FB96-42A4-80A2-9605AC5CBCF1}</Property>
-				<Property Name="DistPart[0].SoftDepCount" Type="Int">12</Property>
-				<Property Name="DistPart[0].upgradeCode" Type="Str">{251E8668-4013-3671-857C-61D46B2AC827}</Property>
+				<Property Name="DistPart[0].SoftDep[9].productName" Type="Str">NI TDM Streaming 24.3</Property>
+				<Property Name="DistPart[0].SoftDep[9].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
+				<Property Name="DistPart[0].SoftDepCount" Type="Int">10</Property>
+				<Property Name="DistPart[0].upgradeCode" Type="Str">{B185DA3F-07A4-3169-A5A5-4E748AC12A50}</Property>
 				<Property Name="DistPartCount" Type="Int">1</Property>
 				<Property Name="INST_author" Type="Str">Carya Automatisering (nl)</Property>
 				<Property Name="INST_buildLocation" Type="Path">../builds/The LabVIEW Soccer Game/Installer The LabVIEW Soccer Game</Property>
@@ -142,7 +137,7 @@
 				<Property Name="INST_productName" Type="Str">The LabVIEW Soccer Game</Property>
 				<Property Name="INST_productVersion" Type="Str">2.0.1</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">21008000</Property>
+				<Property Name="InstSpecVersion" Type="Str">24318001</Property>
 				<Property Name="MSI_arpCompany" Type="Str">The LabVIEW Soccer Game</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
 				<Property Name="MSI_distID" Type="Str">{3BB7A751-0626-421F-AEE8-7EB892BB4CD3}</Property>
